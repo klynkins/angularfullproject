@@ -1,0 +1,19 @@
+{
+  "name": "angularfullproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klynkins/angularfullproject.git"
+  },
+  "author": "Katelynn Campbell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/klynkins/angularfullproject/issues"
+  },
+  "homepage": "https://github.com/klynkins/angularfullproject#readme"
+}

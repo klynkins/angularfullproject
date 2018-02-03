@@ -1,0 +1,45 @@
+[{
+        "name": "Azurite",
+        "description": "Some gems have hidden qualities beyond their luster, beyond their shine... Azurite is one of those gems.",
+        "shine": 8,
+        "price": 110.50,
+        "rarity": 7,
+        "color": "#CCC",
+        "faces": 14,
+        "images": [
+            "images/gem-02.gif",
+            "images/gem-05.gif",
+            "images/gem-09.gif"
+        ],
+        "reviews": []
+    },
+    {
+        "name": "Ford",
+        "model": "Fiesta",
+        "type": "economy",
+        "description": "5 Seats, 4 Door, Automatic, 1 Large Bag, 1 Small Bag, A/C",
+        "price": 35,
+        "available": 7,
+        "color": "#C0C0C0",
+        "images": "fiesta.png"
+    },
+    {
+        "name": "Ford",
+        "model": "Escape",
+        "type": "suv",
+        "description": "5 Seats, 4 Door, Automatic, 1 Large Bag, 1 Small Bag, A/C",
+        "price": 55,
+        "available": 4,
+        "color": "#0000ff",
+        "images": "escape.png"
+    }, {
+        "name": "BMW",
+        "model": "X5",
+        "type": "elite",
+        "description": "5 Seats, 4 Door, Automatic, 2 Large Bags, 2 Small Bags, A/C",
+        "price": 149,
+        "available": 9,
+        "color": "#808080",
+        "images": "x5.png"
+    }
+]
